@@ -42,6 +42,10 @@ a{
     display: block;
 
 }
+a:hover{
+    background-color: white;
+    color:green
+}
 footer{
     color: gray;
 }
